@@ -18,7 +18,7 @@ Built with the **MERN Stack** (MongoDB, Express, React, Node.js), it features re
 
 ##  Key Features
 
-###  Security & Integrity (Hackathon Specials)
+###  Security & Integrity
 * **12-Hour Immutable Ledger:** To prevent data tampering, transactions **cannot be edited or deleted 12 hours after creation**. This logic is enforced strictly on the backend.
 * **JWT Authentication:** Secure user sessions with JSON Web Tokens. Only registered users can access the dashboard.
 * **Protected Routes:** Backend middleware ensures that users can only access their own data.
