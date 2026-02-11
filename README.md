@@ -8,10 +8,6 @@ This is a production-ready scaffold for a **Money Manager** application built wi
 ### Backend setup
 #  Money Manager (MERN Stack)
 
-> **GUVI HCL Hackathon Submission** > A secure, comprehensive financial tracking application built to manage personal and office expenses with data integrity enforcement.
-
----
-
 ##  Overview
 
 **Money Manager** is a full-stack web application designed to help users track their income and expenses efficiently. Unlike standard expense trackers, this application enforces strict **data integrity rules** and supports **dual-division tracking** (Personal vs. Office), making it suitable for professionals who need to segregate their finances.
